@@ -202,5 +202,4 @@ Frontend runs on: `http://localhost:5173`
 - Email: shivamkumarnayak15@gmail.com
 ```
 
----
 
