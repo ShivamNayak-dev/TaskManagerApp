@@ -204,14 +204,3 @@ Frontend runs on: `http://localhost:5173`
 
 ---
 
-Save with **Ctrl+S**!
-
-Then run in terminal:
-```
-git init
-```
-```
-git add .
-```
-```
-git commit -m "Initial commit - TaskManager App with FastAPI and React"
