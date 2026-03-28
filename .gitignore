@@ -1,0 +1,15 @@
+# Backend
+BackendTaskmanager/venv/
+BackendTaskmanager/__pycache__/
+BackendTaskmanager/.env
+BackendTaskmanager/*.pyc
+BackendTaskmanager/.pytest_cache/
+
+# Frontend
+FrontendTaskmanager/frontend/node_modules/
+FrontendTaskmanager/frontend/dist/
+FrontendTaskmanager/frontend/.env
+
+# General
+.DS_Store
+*.log
