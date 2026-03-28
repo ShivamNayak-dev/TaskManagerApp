@@ -200,6 +200,5 @@ Frontend runs on: `http://localhost:5173`
 **Shivam Nayak**
 - GitHub: [ShivamNayak-dev](https://github.com/ShivamNayak-dev)
 - Email: shivamkumarnayak15@gmail.com
-```
 
 
